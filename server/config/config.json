@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "multiplica",
+    "password": "r00t",
+    "database": "cruddev",
+    "host": "127.0.0.1",
+    "port" : 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "multiplica",
+    "password": "r00t",
+    "database": "crudtest",
+    "host": "127.0.0.1",
+    "port" : 5432,
+    "dialect": "postgres"
+  }
+}
